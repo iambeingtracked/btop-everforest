@@ -1,2 +1,3 @@
 # btop-evereforest
-![w](https://user-images.githubusercontent.com/94642304/148384835-886a2707-436c-4ea4-bd73-3e7888733d04.png)
+![w](https://user-images.githubusercontent.com/94642304/148385509-7209768f-ee5b-4060-bc99-56894b85823f.png)
+
